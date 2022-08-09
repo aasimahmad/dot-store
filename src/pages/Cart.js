@@ -23,7 +23,7 @@ const Cart = () => {
               <img
                 className="cartProductImage"
                 src={product.image}
-                alt="product-image"
+                alt="product"
               />
               <h5>{product.title}</h5>
               <div className="priceBtnWrapper">
